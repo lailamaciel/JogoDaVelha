@@ -1,35 +1,35 @@
-# 🎮 Jogo da Velha em C#
+# 🎮 Tic-Tac-Toe in C#
 
-Projeto desenvolvido como parte da disciplina de Programação de Computadores, com o objetivo de aplicar conceitos fundamentais de lógica de programação, estruturas condicionais, laços de repetição, vetores e organização de código em C#.
+Project developed as part of the Computer Programming course, with the goal of applying fundamental concepts of programming logic, conditional structures, loops, arrays, and code organization in C#.
 
-## 📌 Descrição
+## 📌 Description
 
-Este é um jogo da velha (tic-tac-toe) implementado em C# que permite dois jogadores se enfrentarem em uma interface de console. O jogo verifica automaticamente condições de vitória ou empate.
+This is a console-based tic-tac-toe game implemented in C# that allows two players to compete. The game automatically checks for win or draw conditions.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- Linguagem: **C#**
-- IDE sugerida: **Visual Studio** 
-- Ambiente: **Console Application (.NET)**
+- Language: **C#**
+- Suggested IDE: **Visual Studio**
+- Environment: **Console Application (.NET)**
 
-## 🎯 Funcionalidades
+## 🎯 Features
 
-- Interface interativa no terminal
-- Validação de jogadas (não permite sobrescrever posições já ocupadas)
-- Alternância entre jogador X e jogador O
-- Verificação automática de vitória ou empate
-- Opção para reiniciar o jogo ao final da partida
+- Interactive console interface
+- Move validation (prevents overwriting occupied positions)
+- Alternates between player X and player O
+- Automatic win or draw detection
+- Option to restart the game after it ends
 
-## 🧠 Conceitos Aplicados
+## 🧠 Concepts Applied
 
-- Estruturas condicionais (`if`, `else`)
-- Laços de repetição (`while`, `for`)
-- Arrays bidimensionais
-- Métodos e modularização
-- Programação estruturada
+- Conditional structures (`if`, `else`)
+- Loops (`while`, `for`)
+- 2D arrays
+- Methods and modularization
+- Structured programming
 
-## 📚 Créditos
+## 📚 Credits
 
-Desenvolvido por **Laila Maciel** como parte do curso de **Sistemas de Informação** – 2024.  
-Professor: *[Lucas]*  
-Disciplina: *Programação de Computadores*
+Developed by **Laila Maciel** as part of the **Information Systems** program – 2024.  
+Instructor: *[Lucas]*  
+Course: *Computer Programming*
